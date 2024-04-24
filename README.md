@@ -18,7 +18,7 @@ This project is an independent endeavor and is not associated with the official 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
 
 Happy farming and happy listening!
 
