@@ -15,5 +15,5 @@ Tune in to our carefully curated playlists featuring a wide variety of genres an
 Catch up on the latest industry news, farming tips, and discussions with our selection of podcasts. Whether you're a seasoned farmer looking for insights or a newcomer seeking guidance, our podcasts are sure to inform and entertain.
 
 
-
+# YOU CAN´T LISTEN TO THIS RADIO RIGHT NOW BECOUSE IT IS IN EARLY DEVELOPMENT
 
